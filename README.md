@@ -1,1 +1,1 @@
-# fancy-bip49
+# fancy-address
